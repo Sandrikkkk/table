@@ -1,0 +1,40 @@
+body{
+margin: 0;
+padding: 0;
+width: 100%;
+
+}
+
+ul{
+    height: 8vh;
+    background-color: grey;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+
+a:hover{
+    color: red;
+    transition: 1s;
+
+}
+
+
+#icon{
+    color: blue;
+}
+
+
+
+
+
